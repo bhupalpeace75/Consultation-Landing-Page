@@ -87,7 +87,7 @@ export default function CTAForm(){
         </button>
         <p className="privacy"><LockKeyhole size={13}/>We respect your privacy. No spam.</p>
       </div>
-      <div className="flodesk-success" data-ff-el="success" role="status">Your request is in. Check your inbox to confirm your email address.</div>
+      <div className="flodesk-success" data-ff-el="success" role="status">You’ve successfully signed up! Check your email for details.</div>
     </form>
   </section>;
 }
